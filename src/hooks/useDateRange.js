@@ -3,10 +3,10 @@ import { useState } from "react";
 export const useDateRange = () => {
   const [startDate, setStartDate] = useState(null);
   const [endDate, setEndDate] = useState(null);
-  const [selectedDate, setSelectedDate] = useState(null); // ✅ ANDAR hona chahiye
+  const [selectedDate, setSelectedDate] = useState(null);
 
   const selectDate = (date) => {
-    setSelectedDate(date); // ✅ yaha use kar
+    setSelectedDate(date); 
 
     if (!startDate || (startDate && endDate)) {
       setStartDate(date);

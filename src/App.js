@@ -46,7 +46,7 @@ function App() {
         }
         notes={
           <NotesPanel
-            selectedDate={range.selectedDate || new Date()} // ✅ FIX
+            selectedDate={range.selectedDate || new Date()} 
             notesMap={notesMap}
             setNotesMap={setNotesMap}
           />
