@@ -4,10 +4,11 @@ export default function HeroSection({ startDate, endDate }) {
   return (
     <div className="relative h-56 overflow-hidden rounded-t-3xl">
 
-      <img
-        src="https://images.unsplash.com/photo-1501785888041-af3ef285b470"
-        className="w-full h-full object-cover transition duration-700 hover:scale-105"
-      />
+<img
+  src="https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+  alt="Calendar background"
+  className="w-full h-full object-cover transition duration-700 hover:scale-105"
+/>
 
       <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
 
