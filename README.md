@@ -13,7 +13,7 @@ A modern, interactive calendar application built with **React + Tailwind CSS**, 
 
 ## 📸 Preview
 ### Light Mode
-![Light](./Light.png)
+![Light](./light.png)
 
 ### Dark Mode
 ![Dark](./Dark.png)
