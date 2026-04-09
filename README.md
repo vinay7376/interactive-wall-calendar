@@ -8,6 +8,14 @@ A modern, interactive calendar application built with **React + Tailwind CSS**, 
 
 👉 https://interactive-wall-calendar-rho.vercel.app
 
+## 📢 LinkedIn Post
+
+I shared this project on LinkedIn as well:
+
+🔗 https://www.linkedin.com/posts/vinaypal7376_reactjs-frontenddeveloper-webdevelopment-ugcPost-7448023273084186624-UYxF
+
+
+Feel free to connect and share your feedback!
 ---
 
 
